@@ -1,5 +1,18 @@
 # energygraph-data
 
+Data used to create infographics on energy vs. income.
+
+[<img src="infographicenergy.svg" alt="Income/Energy Infographic" width="640"
+height="360">](
+https://industrydecarbonization.com/news/misleading-logarithmic-scales-and-the-disregard-for-energy-efficiency.html)
+
+For context, see: [Misleading Logarithmic Scales and the Disregard for Energy
+Efficiency](
+https://industrydecarbonization.com/news/misleading-logarithmic-scales-and-the-disregard-for-energy-efficiency.html)
+
+[Interactive and zoomable versions can be found here](
+https://industrydecarbonization.com/misc/incomeenergy.html).
+
 ## wb-income
 
 Adjusted net national income per capita (current US$), Source: World Bank
